@@ -35,5 +35,9 @@ Here are some ideas to get you started:
   ·
   <a href="/docs/README_kr.md">한국어</a>
 </p>
+
+🔭 I’m currently working on ...
+- 
+🌱 I’m currently learning ...
 <br/>
 
